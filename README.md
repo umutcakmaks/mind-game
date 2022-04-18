@@ -38,13 +38,13 @@ Tasarımlar ile veriler arasında abstraction için adapter design pattern kulla
 
 Proje de iki ana bağdaştırıcı kullanıldı:
 Biri oyun oynarken kartlar için, diğeri oyun skorları için. Burada amaç view'ları verilerden soyutlamaktır, bu nedenle skorlar için kullanılan adapter:
--Görünümü tutmak için bir RecyclerView kullanılır
--RecordAdapter, RecyclerView için adapter'ı implement eden sınıftır.
--GameRecord, adapter'ın alacağı ve ekranda görüntülenebilmesi için view'e göndereceği bilgileri tutan class tır.
+-Görünümü tutmak için bir RecyclerView kullanılır. <br>
+-RecordAdapter, RecyclerView için adapter'ı implement eden sınıftır. <br>
+-GameRecord, adapter'ın alacağı ve ekranda görüntülenebilmesi için view'e göndereceği bilgileri tutan class tır. <br>
 Bu şekilde, hem view GameRecord class'ı hem de GameRecord view'i bilmez. Adapter verileri GameRecord da liste olarak alır ve view'e doldurur.
 
 ### Test
-MindGameLogicTest: Oyun mantığını test eder. Tüm tıklama kartlarının oyunun doğru şekilde yanıt vermesini sağladığını iddia eder.
+MindGameLogicTest: Oyun mantığını test eder. Tüm tıklama kartlarının oyunun doğru şekilde yanıt vermesini sağladığını iddia eder. <br>
 JsonReaderTest: JsonReader, kartlarla ilgili tüm bilgileri içeren Json (products.json) dosyasını düzgün okunduğunu garanti eder.
 
 ## Özellikler

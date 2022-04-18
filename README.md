@@ -3,9 +3,9 @@ Picture Matching Game Android Kotlin ve Java kullanılarak oluşturuldu.
 
 ## Geliştiren Ekip
 Havva Nergiz <br>
-Edanur Hamurcu
-Umut Çakmak
-Mustafa Uçar
+Edanur Hamurcu <br>
+Umut Çakmak <br>
+Mustafa Uçar <br>
 
 ## Screenshots
 <table>

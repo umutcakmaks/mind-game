@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.test.espresso:espresso-accessibility:3.2.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/700edcc5630b441b0a83ead9db7bd77d/espresso-accessibility-3.2.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/74bc0eb192794199831dfa7605906135/transformed/espresso-accessibility-3.2.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/74bc0eb192794199831dfa7605906135/transformed/espresso-accessibility-3.2.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/74bc0eb192794199831dfa7605906135/transformed/espresso-accessibility-3.2.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test.espresso/espresso-accessibility/3.2.0/414d42f603f7c1d5cf711e114a6a66e2f265dac/espresso-accessibility-3.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test.espresso/espresso-accessibility/3.2.0/1ce650f91e16a300a352dc1bb6b8810ec679c7c9/espresso-accessibility-3.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

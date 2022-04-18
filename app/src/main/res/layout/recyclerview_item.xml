@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="horizontal"
+              android:layout_width="match_parent"
+                android:background="@color/background"
+              android:layout_height="wrap_content" android:padding="5dp">
+
+    <TextView
+            android:text="position"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" android:id="@+id/stats_position" android:layout_weight="1"
+            android:textStyle="bold" app:fontFamily="@font/aclonica"/>
+    <TextView
+            android:text="Points: "
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" android:id="@+id/textView6"
+            android:fontFamily="@font/aclonica"
+            android:layout_weight="1"/>
+    <TextView
+            android:text="TextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" android:id="@+id/stats_points"
+            android:fontFamily="@font/aclonica"
+            android:layout_weight="1"
+            android:textColor="@color/design_default_color_primary_dark"/>
+    <TextView
+            android:text="Time:"
+            android:layout_width="wrap_content"
+            android:fontFamily="@font/aclonica"
+            android:layout_height="wrap_content" android:id="@+id/textView7"
+            android:layout_weight="1"/>
+    <TextView
+            android:text="TextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" android:id="@+id/stats_time"
+            android:layout_weight="1"
+            android:fontFamily="@font/aclonica"
+            android:textColor="@color/red"/>
+</LinearLayout>

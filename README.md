@@ -1,11 +1,11 @@
 # mind-game
 Picture Matching Game Android Kotlin ve Java kullanılarak oluşturuldu.
 
-## Geliştiren Ekip (Grup 1)
-1170505002 - Havva Nergiz
-1180505903 - Edanur Hamurcu
-1190505022 - Umut Çakmak
-1190505027 - Mustafa Uçar
+## Geliştiren Ekip
+Havva Nergiz <br>
+Edanur Hamurcu
+Umut Çakmak
+Mustafa Uçar
 
 ## Screenshots
 <table>

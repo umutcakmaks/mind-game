@@ -71,4 +71,4 @@ Kullanılan Kütüphaneler:
 
 -Java nesnelerini JSON'a dönüştürmek için Google Gson
 
--Çift yönlü hashmapler için Google Guava 
+-Çift yönlü hashmapler için Google Guava

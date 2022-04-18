@@ -11,24 +11,24 @@ Picture Matching Game Android Kotlin ve Java kullanılarak oluşturuldu.
 <table>
   <tr>
     <td>
-      <img width="200" alt="portfolio_view" src="https://github.com/umutcakmaks/mind-games/blob/master/app/src/main/res/raw/home.png">
+      <img width="200" src="https://github.com/umutcakmaks/mind-game/blob/master/app/src/main/res/raw/home.png">
     </td>
     <td>
-      <img width="200" alt="portfolio_view" src="https://github.com/umutcakmaks/mind-games/blob/master/app/src/main/res/raw/options.png">
+      <img width="200" src="https://github.com/umutcakmaks/mind-game/blob/master/app/src/main/res/raw/options.png">
     </td>
     <td>
-    <img width="225" alt="portfolio_view" src="https://github.com/umutcakmaks/mind-games/blob/master/app/src/main/res/raw/mindgame.gif">
+    <img width="225" src="https://github.com/umutcakmaks/mind-game/blob/master/app/src/main/res/raw/mindgame.gif">
     </td>
   </tr>
   <tr>
     <td>
-      <img width="200" alt="portfolio_view" src="https://github.com/umutcakmaks/mind-games/blob/master/app/src/main/res/raw/game.PNG">
+      <img width="200" src="https://github.com/umutcakmaks/mind-game/blob/master/app/src/main/res/raw/game.PNG">
     </td>
     <td>
-      <img width="200" alt="portfolio_view" src="https://github.com/umutcakmaks/mind-games/blob/master/app/src/main/res/raw/gameopen.PNG">
+      <img width="200" src="https://github.com/umutcakmaks/mind-game/blob/master/app/src/main/res/raw/gameopen.PNG">
     </td>
     <td>
-      <img width="200" alt="portfolio_view" src="https://github.com/umutcakmaks/mind-games/blob/master/app/src/main/res/raw/scores.PNG">
+      <img width="200" src="https://github.com/umutcakmaks/mind-game/blob/master/app/src/main/res/raw/scores.PNG">
     </td>
   </tr>
 </table>

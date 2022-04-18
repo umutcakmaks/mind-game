@@ -37,7 +37,7 @@ Mustafa Uçar <br>
 Tasarımlar ile veriler arasında abstraction için adapter design pattern kullanıldı.
 
 Proje de iki ana bağdaştırıcı kullanıldı:
-Biri oyun oynarken kartlar için, diğeri oyun skorları için. Burada amaç view'ları verilerden soyutlamaktır, bu nedenle skorlar için kullanılan adapter:
+Biri oyun oynarken kartlar için, diğeri oyun skorları için. Burada amaç view'ları verilerden soyutlamaktır, bu nedenle skorlar için kullanılan adapter: <br>
 -Görünümü tutmak için bir RecyclerView kullanılır. <br>
 -RecordAdapter, RecyclerView için adapter'ı implement eden sınıftır. <br>
 -GameRecord, adapter'ın alacağı ve ekranda görüntülenebilmesi için view'e göndereceği bilgileri tutan class tır. <br>

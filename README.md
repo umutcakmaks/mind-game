@@ -1,6 +1,7 @@
 # mind-game
 Picture Matching Game Android Kotlin ve Java kullanılarak oluşturuldu.
 
+
 ## Geliştiren Ekip
 Havva Nergiz <br>
 Edanur Hamurcu <br>
